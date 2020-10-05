@@ -528,7 +528,7 @@ img {
 }
 
 .social-links-box .social-links-icon {
-	fill: var(--main-icon-color);
+	fill: var(--primary-white-color);
 }
 
 .social-links-box .social-links-link:hover .social-links-icon,
